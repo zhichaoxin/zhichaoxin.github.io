@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify">辛志超，在读博士生，硕士毕业于中国海洋大学信息科学与工程学院，2023年至今博士就读于山东大学集成电路学院。当前主要从事6G无人机通信、基于人工智能的多模态无线信道特性分析与建模研究。
+<div style="text-align: justify">辛志超，在读博士生，硕士毕业于中国海洋大学信息科学与工程学院，2023年至今博士就读于山东大学集成电路学院。当前主要从事6G无人机通信、基于人工智能的多模态无线信道特性分析与建模研究。</div>
 
   <!-- 联系方式美化 -->
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; display: inline-block; margin-top: 10px;">
