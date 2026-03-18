@@ -24,13 +24,13 @@ repository               : "zhichaoxin/zhichaoxin.github.io"
 author:
   # Biographic information
   avatar           : "xzc.png"
-  name             : "辛志超"
+  name             : "<center>辛志超</center>"
   pronouns         :   
   bio              : "山东大学，集成电路学院"
   location         : "中国 · 山东 · 济南"
   employer         : 
   uri              : # URL
-  email            : "xinzhichaomail@foxmail.com" 
+  email            : #"xinzhichaomail@foxmail.com" 
 
   # Academic websites
   academia         : # URL
