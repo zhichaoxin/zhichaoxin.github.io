@@ -1,55 +1,94 @@
 ---
 permalink: /
-title: "个人简历"
+title: "个人简介"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<!-- 个人基本信息区 - 居中+美化 -->
+<div align="center" style="padding: 20px 0; border-bottom: 1px solid #eee; margin-bottom: 30px;">
+  <h2 style="margin: 0; color: #2c3e50;">辛志超</h2>
+  <p style="color: #666; font-size: 16px; margin: 10px 0;">PhD Candidate | 山东大学集成电路学院</p>
+  
+  <div style="text-align: justify; max-width: 800px; margin: 20px auto; line-height: 1.8;">
+    硕士毕业于中国海洋大学信息科学与工程学院，2023年至今博士就读于山东大学集成电路学院。当前主要从事6G无人机通信、基于人工智能的多模态无线信道特性分析与建模研究。
+  </div>
+  
+  <!-- 联系方式美化 -->
+  <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; display: inline-block; margin-top: 10px;">
+    <p style="margin: 5px 0; font-size: 14px;">
+      <strong>邮箱：</strong>xinzhichaomail@foxmail.com | 
+      <strong>微信：</strong>xinzhichaowechat | 
+      <strong>手机：</strong>15688489956
+    </p>
+  </div>
+  <p style="color: #999; font-size: 12px; margin-top: 15px;">本页面仅用于简历制作时的信息记录</p>
+</div>
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+<!-- 目录导航 - 快速跳转 -->
+<div style="background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin-bottom: 30px; max-width: 800px; margin-left: auto; margin-right: auto;">
+  <p style="font-weight: bold; color: #2c3e50; margin: 0 0 10px 0;">📋 内容导航</p>
+  <ul style="list-style: none; padding: 0; margin: 0; columns: 2; line-height: 1.8;">
+    <li>🔹 <a href="#jump1">研究方向与研究兴趣</a></li>
+    <li>🔹 <a href="#jump2">教育经历</a></li>
+    <li>🔹 <a href="#jump3">发表文章</a></li>
+    <li>🔹 <a href="#jump4">专利</a></li>
+    <li>🔹 <a href="#jump5">获奖及荣誉</a></li>
+  </ul>
+</div>
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+## <span id="jump1" style="color: #2980b9;">🔬 研究方向与研究兴趣</span>
+<ul style="line-height: 1.8; font-size: 15px;">
+  <li>多模态无人机空地信道预测与建模</li>
+  <li>无人机空地信道电磁环境数字孪生</li>
+  <li>无人机空地无线信道地图构建与应用</li>
+</ul>
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+## <span id="jump2" style="color: #2980b9;">🎓 教育经历</span>
+<ul style="line-height: 1.8; font-size: 15px;">
+  <li><strong>山东大学</strong>，集成电路学院 (2023年9月 – 至今) -- 博士生（济南，中国）</li>
+  <li><strong>中国海洋大学</strong>，信息科学与工程学院 (2020年9月 – 2023年6月) -- 硕士生（青岛，中国）</li>
+</ul>
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+## <span id="jump3" style="color: #2980b9;">📝 发表文章</span> 
+### 📄 期刊论文
+<div style="background-color: #fafafa; padding: 15px; border-radius: 6px; margin-bottom: 20px; line-height: 1.8;">
+[1]. <strong>Z. Xin</strong>, Y. Liu, J. Xing, J. Huang, J. Bian, Z. Bai, and C. Wang,"Multimodal fusion-based channel prediction and characterization for mmwave uav a2g communications," <strong>IEEE Transactions on Communications</strong>, vol. 74, pp. 5089-5104, Feb. 2026.<br>
+[2]. <strong>Z. Xin</strong>, Y. Liu, J. Xing, J. Huang, J. Bian, Y. Zhang, and X. Li, “Environment Sensing-Based Multi-Modal Channel Generation and Modeling for UAV Communications,” <strong>IEEE Internet of Things Journal</strong>, accepted for publish. 2026.<br>
+[3]. <strong>Z. Xin</strong>, Y. Liu, J. Xing, J. Huang, J. Bian, and Y. Zhang, “A novel multimodal fusion sensing-based channel prediction method for uav communications,” <strong>IEEE Internet of Things Journal</strong>, vol. 12, pp. 3948–3960, Feb. 2025.<br>
+[4]. <strong>辛志超</strong>，刘玉，邢建平，王传腾，白宗锴，黄杰，边际. 基于多模态融合感知的农村场景无人机信道建模方法. <strong>电波科学学报</strong>，2025.<br>
+[5]. <strong>Z. Xin</strong>, Z. Wang, Z. Yu, and B. Zheng, “ULL-slam: underwater low-light enhancement for the front-end of visual slam,” <strong>Frontiers in Marine Science</strong>, vol. Volume 10 - 2023. 2023.<br>
+[6]. Z. Zheng\*, <strong>Z. Xin\*</strong>, Z. Yu, and S.-K. Yeung, “Real-time gan-based image enhancement for robust underwater monocular slam,” <strong>Frontiers in Marine Science</strong>, vol. Volume 10 - 2023. 2023.<br>
+[7]. S. Zhou, Y. Liu, R. Wang, Z. Li, <strong>Z. Xin</strong>, J. Huang, and J. Bian, “A multimodal predictive channel model based on dual-camera images for iiot communications,” <strong>IEEE Internet of Things Journal</strong>, vol. 12, pp. 20530–20543, Feb. 2025.<br>
+[8]. X. Zhang, Y. Liu, S. Zhou, J. Bian, J. Huang, X. Li, and <strong>Z. Xin</strong>, “GAN-based channel generation and modeling for 6g intelligent iiot communications,” <strong>IEEE Internet of Things Journal</strong>, vol. 12, pp. 26472–26485, Apr. 2025.<br>
+[9]. W. Dong, Y. Zhu, J. Xing, S. Wang, and <strong>Z. Xin</strong>, “Line-of-sight guidance law design for path following of usvs with sideslip angle compensation,” <strong>Ocean Engineering</strong>, vol. 342, p. 123015, Dec. 2025.<br>
+[10]. Y. Zhang, Y. Liu, X. Li, H. Chang, J. Huang, J. Bian, and <strong>Z. Xin</strong>, “A novel nonstationary uav-to-multi-usv channel model for maritime communications,” <strong>IEEE Internet of Things Journal</strong>, vol. 12, pp. 50067–50081, Dec. 2025.<br>
+[11]. B. Huang, <strong>Z. Xin</strong>, F. Yang, Y. Zhang, Y. Liu, J. Huang, and J. Bian, “Transformer-based air-to-ground mmwave channel characteristics prediction for 6g uav communications,” <strong>Sensors</strong>, vol. 25, Jun. 2025.<br>
+[12]. Z. Zheng, Y. Cheng, <strong>Z. Xin</strong>, Z. Yu, and B. Zheng, “Robust perception under adverse conditions for autonomous driving based on data augmentation,” <strong>IEEE Transactions on Intelligent Transportation Systems</strong>, vol. 24, pp. 13916–13929, Dec. 2023.<br>
+[13]. Q. Zhao, <strong>Z. Xin</strong>, Z. Yu, and B. Zheng, “Unpaired underwater image synthesis with a disentangled representation for underwater depth map prediction,” <strong>Sensors</strong>, vol. 21, no. 9, 2021.
+</div>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+### 🎯 会议论文
+<div style="background-color: #fafafa; padding: 15px; border-radius: 6px; line-height: 1.8;">
+[1]. J. Li, Y. Xing, <strong>Z. Xin</strong>, Y. Wu, and J. Xing, “Vision-Based Method for Visitor Detection in Nighttime Scenic Spots,” in Proc MLCIPR 2025, Nanjing, China, Dec. 2025.
+</div>
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## <span id="jump4" style="color: #2980b9;">⚙️ 专利</span>
+### 📜 已授权
+<div style="background-color: #fafafa; padding: 15px; border-radius: 6px; line-height: 1.8;">
+[1]. 刘玉，张兆磊，<strong>辛志超</strong>. 一种面向地下室环境的智能抄表通信信道建模方法. 专利号：ZL 202410271378.9.<br>
+[2]. 刘玉，张怡，<strong>辛志超</strong>，周书东，李子恒. 基于海洋环境信息感知的智能化无人船对无人船信道测量系统及方法. 专利号：ZL 202410800337.4.
+</div>
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+## <span id="jump5" style="color: #2980b9;">🏆 获奖及荣誉</span>
+<ul style="line-height: 1.8; font-size: 15px;">
+  <li>全国水下机器人目标识别大赛，优胜奖，2021</li>
+  <li>全国大学生电子设计大赛，全国二等奖，2019</li>
+  <li>全国大学生电子设计大赛，山东省二等奖，2018</li>
+</ul>
 
 For more info
 ------
