@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<!-- 个人基本信息区 - 居中+美化 -->
-<div style="text-align: justify">辛志超，在读博士生，硕士毕业于中国海洋大学信息科学与工程学院，2023年至今博士就读于山东大学集成电路学院。当前主要从事6G无人机通信、基于人工智能的多模态无线信道特性分析与建模研究。
-  
+<div style="text-align: justify">辛志超，在读博士生，硕士毕业于中国海洋大学信息科学与工程学院，2023年至今博士就读于山东大学集成电路学院。当前主要从事6G无人机通信、基于人工智能的多模态无线信道特性分析与建模研究。</div>
+本页面仅用于简历制作时的信息记录。
+
   <!-- 联系方式美化 -->
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; display: inline-block; margin-top: 10px;">
   <p style="margin: 5px 0; font-size: 14px;">
@@ -30,10 +30,9 @@ redirect_from:
 </ul>
 
 ## <span id="jump2">教育经历</span>
-<ul style="line-height: 1.8; font-size: 15px;">
-  <li><strong>山东大学</strong>，集成电路学院 (2023年9月 – 至今) -- 博士生（济南，中国）</li>
-  <li><strong>中国海洋大学</strong>，信息科学与工程学院 (2020年9月 – 2023年6月) -- 硕士生（青岛，中国）</li>
-</ul>
+- 山东大学，集成电路学院 (2023年9月 – 至今) --博士生（济南，中国）
+- 中国海洋大学，信息科学与工程学院 (2020年9月 – 2023年6月) -- 硕士生（青岛，中国）
+
 
 ## <span id="jump3">发表文章</span> 
 ### 期刊论文
@@ -62,18 +61,30 @@ redirect_from:
 [12]. Z. Zheng, Y. Cheng, **Z. Xin**, Z. Yu, and B. Zheng, “Robust perception under adverse conditions for autonomous driving based on data augmentation,” **IEEE Transactions on Intelligent Transportation Systems**, vol. 24, pp. 13916–13929, Dec. 2023.
 
 [13]. Q. Zhao, **Z. Xin**, Z. Yu, and B. Zheng, “Unpaired underwater image synthesis with a disentangled representation for underwater depth map prediction,” **Sensors**, vol. 21, no. 9, 2021.
-
 ### 会议论文
 [1]. J. Li, Y. Xing, **Z. Xin**, Y. Wu, and J. Xing, “Vision-Based Method for Visitor Detection in Nighttime Scenic Spots,” in Proc MLCIPR 2025, Nanjing, China, Dec. 2025.
 
-## <span id="jump4">专利</span>
-[1]. 刘玉，张兆磊，<strong>辛志超</strong>. 一种面向地下室环境的智能抄表通信信道建模方法. 专利号：ZL 202410271378.9.
 
-[2]. 刘玉，张怡，<strong>辛志超</strong>，周书东，李子恒. 基于海洋环境信息感知的智能化无人船对无人船信道测量系统及方法. 专利号：ZL 202410800337.4.
+## <span id="jump4">专利</span>
+
+### 已授权
+
+[1]. 刘玉，张兆磊，**辛志超**. 一种面向地下室环境的智能抄表通信信道建模方法. 专利号：ZL 202410271378.9.
+
+[2]. 刘玉，张怡，**辛志超**，周书东，李子恒. 基于海洋环境信息感知的智能化无人船对无人船信道测量系统及方法. 专利号：ZL 202410800337.4.
+
 
 ## <span id="jump5">获奖及荣誉</span>
-<ul>
-  <li>全国水下机器人目标识别大赛，优胜奖，2021</li>
-  <li>全国大学生电子设计大赛，全国二等奖，2019</li>
-  <li>全国大学生电子设计大赛，山东省二等奖，2018</li>
-</ul>
+
+- 全国水下机器人目标识别大赛，优胜奖，2021
+- 全国大学生电子设计大赛，全国二等奖，2019 
+- 全国大学生电子设计大赛，山东省二等奖，2018
+
+
+
+
+
+
+
+
+
