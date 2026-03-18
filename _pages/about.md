@@ -10,6 +10,7 @@ redirect_from:
 
 <div style="text-align: justify">辛志超，在读博士生，硕士毕业于中国海洋大学信息科学与工程学院，2023年至今博士就读于山东大学集成电路学院。当前主要从事6G无人机通信、基于人工智能的多模态无线信道特性分析与建模研究。</div>
 
+
   <!-- 联系方式美化 -->
 <div style="background-color: #f8f9fa; padding: 15px; border-radius: 8px; display: inline-block; margin-top: 10px;">
   <p style="margin: 5px 0; font-size: 14px;">
@@ -65,12 +66,14 @@ redirect_from:
 
 
 ## <span id="jump4">专利</span>
+
 [1]. 刘玉，张兆磊，**辛志超**. 一种面向地下室环境的智能抄表通信信道建模方法. 专利号：ZL 202410271378.9.
 
 [2]. 刘玉，张怡，**辛志超**，周书东，李子恒. 基于海洋环境信息感知的智能化无人船对无人船信道测量系统及方法. 专利号：ZL 202410800337.4.
 
 
 ## <span id="jump5">获奖及荣誉</span>
+
 - 全国水下机器人目标识别大赛，优胜奖，2021
 - 全国大学生电子设计大赛，全国二等奖，2019 
 - 全国大学生电子设计大赛，山东省二等奖，2018
