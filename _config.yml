@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zhichao Xin / PhD student"
+title                    : "辛志超 / 博士生"
 title_separator          : "-"
 name                     : &name "Zhichao Xin"
 description              : &description "personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "zhichaoxin/zhichaoxin.github.io"
 author:
   # Biographic information
   avatar           : "xzc.png"
-  name             : "辛志超(博士生)"
-  pronouns         : # example: "she/her"  
+  name             : "辛志超"
+  pronouns         :   
   bio              : "山东大学，集成电路学院"
   location         : "中国 · 山东 · 济南"
   employer         : 
   uri              : # URL
-  email            : #"none@example.org" 
+  email            : "xinzhichaomail@foxmail.com" 
 
   # Academic websites
   academia         : # URL
