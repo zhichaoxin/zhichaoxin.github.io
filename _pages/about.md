@@ -30,37 +30,37 @@ redirect_from:
 </ul>
 
 ## <span id="jump2">教育经历</span>
-- 山东大学，集成电路学院 (2023年9月 – 至今) --博士生（济南，中国）
-- 中国海洋大学，信息科学与工程学院 (2020年9月 – 2023年6月) -- 硕士生（青岛，中国）
+- 山东大学，集成电路学院 (2023年9月 – 至今) --博士生
+- 中国海洋大学，信息科学与工程学院 (2020年9月 – 2023年6月) -- 硕士生
 
 
 ## <span id="jump3">发表文章</span> 
 ### 期刊论文
-[1]. **Z. Xin**, Y. Liu, J. Xing, J. Huang, J. Bian, Z. Bai, and C. Wang,"Multimodal fusion-based channel prediction and characterization for mmwave uav a2g communications," **IEEE Transactions on Communications**, vol. 74, pp. 5089-5104, Feb. 2026.
+[1]. **Z. Xin**, Y. Liu, J. Xing, J. Huang, J. Bian, Z. Bai, and C. Wang,"Multimodal Fusion-Based Channel Prediction and Characterization for mmWave UAV A2G Communications," **IEEE Transactions on Communications**, vol. 74, pp. 5089-5104, Feb. 2026.
 
 [2]. **Z. Xin**, Y. Liu, J. Xing, J. Huang, J. Bian, Y. Zhang, and X. Li, “Environment Sensing-Based Multi-Modal Channel Generation and Modeling for UAV Communications,” **IEEE Internet of Things Journal**, accepted for publish. 2026.
 
-[3]. **Z. Xin**, Y. Liu, J. Xing, J. Huang, J. Bian, and Y. Zhang, “A novel multimodal fusion sensing-based channel prediction method for uav communications,” **IEEE Internet of Things Journal**, vol. 12, pp. 3948–3960, Feb. 2025.
+[3]. **Z. Xin**, Y. Liu, J. Xing, J. Huang, J. Bian, and Y. Zhang, “A Novel Multimodal Fusion Sensing-Based Channel Prediction Method for UAV Communications,” **IEEE Internet of Things Journal**, vol. 12, pp. 3948–3960, Feb. 2025.
 
 [4]. **辛志超**，刘玉，邢建平，王传腾，白宗锴，黄杰，边际. 基于多模态融合感知的农村场景无人机信道建模方法. **电波科学学报**，2025.
 
-[5]. **Z. Xin**, Z. Wang, Z. Yu, and B. Zheng, “ULL-slam: underwater low-light enhancement for the front-end of visual slam,” **Frontiers in Marine Science**, vol. Volume 10 - 2023. 2023.
+[5]. **Z. Xin**, Z. Wang, Z. Yu, and B. Zheng, “ULL-SLAM: Underwater Low-light Enhancement for the Front-End of Visual SLAM,” **Frontiers in Marine Science**, vol. Volume 10 - 2023. 2023.
 
-[6]. Z. Zheng\*, **Z. Xin\***, Z. Yu, and S.-K. Yeung, “Real-time gan-based image enhancement for robust underwater monocular slam,” **Frontiers in Marine Science**, vol. Volume 10 - 2023. 2023.
+[6]. Z. Zheng\*, **Z. Xin\***, Z. Yu, and S.-K. Yeung, “Real-time GAN-Based Image Enhancement for Robust Underwater Monocular SLAM,” **Frontiers in Marine Science**, vol. Volume 10 - 2023. 2023.
 
-[7]. S. Zhou, Y. Liu, R. Wang, Z. Li, **Z. Xin**, J. Huang, and J. Bian, “A multimodal predictive channel model based on dual-camera images for iiot communications,” **IEEE Internet of Things Journal**, vol. 12, pp. 20530–20543, Feb. 2025.
+[7]. S. Zhou, Y. Liu, R. Wang, Z. Li, **Z. Xin**, J. Huang, and J. Bian, “A Multimodal Predictive Channel Model Based on Dual-Camera Images for IIOT Communications,” **IEEE Internet of Things Journal**, vol. 12, pp. 20530–20543, Feb. 2025.
 
-[8]. X. Zhang, Y. Liu, S. Zhou, J. Bian, J. Huang, X. Li, and **Z. Xin**, “GAN-based channel generation and modeling for 6g intelligent iiot communications,” **IEEE Internet of Things Journal**, vol. 12, pp. 26472–26485, Apr. 2025.
+[8]. X. Zhang, Y. Liu, S. Zhou, J. Bian, J. Huang, X. Li, and **Z. Xin**, “GAN-Based Channel Generation and Modeling for 6G Intelligent IIOT Communications,” **IEEE Internet of Things Journal**, vol. 12, pp. 26472–26485, Apr. 2025.
 
-[9]. W. Dong, Y. Zhu, J. Xing, S. Wang, and **Z. Xin**, “Line-of-sight guidance law design for path following of usvs with sideslip angle compensation,” **Ocean Engineering**, vol. 342, p. 123015, Dec. 2025.
+[9]. W. Dong, Y. Zhu, J. Xing, S. Wang, and **Z. Xin**, “Line-of-Sight Guidance Law Design for Path Following of USVs with Sideslip Angle Compensation,” **Ocean Engineering**, vol. 342, p. 123015, Dec. 2025.
 
-[10]. Y. Zhang, Y. Liu, X. Li, H. Chang, J. Huang, J. Bian, and **Z. Xin**, “A novel nonstationary uav-to-multi-usv channel model for maritime communications,” **IEEE Internet of Things Journal**, vol. 12, pp. 50067–50081, Dec. 2025.
+[10]. Y. Zhang, Y. Liu, X. Li, H. Chang, J. Huang, J. Bian, and **Z. Xin**, “A Novel Nonstationary UAV-to-Multi-USV Channel Model for Maritime Communications,” **IEEE Internet of Things Journal**, vol. 12, pp. 50067–50081, Dec. 2025.
 
-[11]. B. Huang, **Z. Xin**, F. Yang, Y. Zhang, Y. Liu, J. Huang, and J. Bian, “Transformer-based air-to-ground mmwave channel characteristics prediction for 6g uav communications,” **Sensors**, vol. 25, Jun. 2025.
+[11]. B. Huang, **Z. Xin**, F. Yang, Y. Zhang, Y. Liu, J. Huang, and J. Bian, “Transformer-Based Air-to-Ground mmWave Channel Characteristics Prediction for 6G UAV Communications,” **Sensors**, vol. 25, Jun. 2025.
 
-[12]. Z. Zheng, Y. Cheng, **Z. Xin**, Z. Yu, and B. Zheng, “Robust perception under adverse conditions for autonomous driving based on data augmentation,” **IEEE Transactions on Intelligent Transportation Systems**, vol. 24, pp. 13916–13929, Dec. 2023.
+[12]. Z. Zheng, Y. Cheng, **Z. Xin**, Z. Yu, and B. Zheng, “Robust Perception Under Adverse Conditions for Autonomous Driving Based on data Augmentation,” **IEEE Transactions on Intelligent Transportation Systems**, vol. 24, pp. 13916–13929, Dec. 2023.
 
-[13]. Q. Zhao, **Z. Xin**, Z. Yu, and B. Zheng, “Unpaired underwater image synthesis with a disentangled representation for underwater depth map prediction,” **Sensors**, vol. 21, no. 9, 2021.
+[13]. Q. Zhao, **Z. Xin**, Z. Yu, and B. Zheng, “Unpaired Underwater Image Synthesis with a Disentangled Representation for Underwater Depth Map Prediction,” **Sensors**, vol. 21, no. 9, 2021.
 ### 会议论文
 [1]. J. Li, Y. Xing, **Z. Xin**, Y. Wu, and J. Xing, “Vision-Based Method for Visitor Detection in Nighttime Scenic Spots,” in Proc MLCIPR 2025, Nanjing, China, Dec. 2025.
 
